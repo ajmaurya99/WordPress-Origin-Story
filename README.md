@@ -1,4 +1,4 @@
-# WordPress-Origin-Story
+# WordPress Origin Story
 **My First Introduction to WordPress**
 
 I dropped out of engineering college in my 3rd year.
